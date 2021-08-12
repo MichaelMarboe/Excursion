@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+h1, h2, h3, a, p {
+    color: white;
+    font-family: Verdana;
+    font-weight: normal;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+a {
+    font-size: 16px;
+
+}
+a:visited {
+    color:aquamarine;
+}
+
+#companyFooter{
+    text-align: right;
+    color:gray;
+}
+
+.normalText{
+    color:gray;
+}
